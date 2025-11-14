@@ -1,4 +1,4 @@
-# 🚀 Projeto de Gestão de Tarefas (Task Manager)
+# 🚀 Gestão de Tarefas 
 
 Um simples projeto Full-Stack de um "To-Do List" (Lista de Tarefas) com o objetivo de demonstrar a integração entre um backend RESTful e um frontend reativo.
 
